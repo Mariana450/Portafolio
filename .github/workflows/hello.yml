@@ -8,6 +8,9 @@ jobs:
     steps:
       - name: Imprimir mensaje
         run: echo "Hola, GitHub Actions está vivo! 🚀"
+      - name: If develop branch
+        if: github.ref == 'refs/heads/develop'
+        run: echo "This is the develop branch!"
 
 
 
