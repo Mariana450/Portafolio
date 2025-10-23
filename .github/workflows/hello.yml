@@ -10,20 +10,7 @@ jobs:
         run: echo "Hola, GitHub Actions está vivo! 🚀"
 
 
-name: Mi primer workflow
 
-on: [push]
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Calcular una suma
-        run: |
-          a=5
-          b=3
-          suma=$((a + b))
-          echo "La suma de $a + $b es: $suma 🚀"
 
 
 
