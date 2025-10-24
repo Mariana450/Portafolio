@@ -1,4 +1,4 @@
-![CI]https://github.com/usuario/repositorio/actions/workflows/hello.yml/badge.svg
+https://github.com/Mariana450/repositorio/actions/workflows/hello.yml/badge.svg
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=526682619)
 
